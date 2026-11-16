@@ -1,0 +1,6 @@
+{
+  "name": "NB Bot — WhatsApp Device Console",
+  "description": "Multi-device WhatsApp bot console by NB (Owner: NAIM) featuring 10-country phone pairing, prefix and permission controls, and Gemini AI automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
